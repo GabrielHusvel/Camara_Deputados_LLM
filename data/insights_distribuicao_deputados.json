@@ -1,0 +1,18 @@
+
+{
+  "partidos": [
+    {"partido": "PL", "percentual": 13.5},
+    {"partido": "PT", "percentual": 10.8},
+    {"partido": "UNIÃO", "percentual": 9.6},
+    {"partido": "PSD", "percentual": 8.4},
+    {"partido": "PP", "percentual": 7.8},
+    {"partido": "MDB", "percentual": 7.2},
+    {"partido": "REPUBLICANOS", "percentual": 7.2},
+    {"partido": "PSDB", "percentual": 5.4},
+    {"partido": "PDT", "percentual": 4.2},
+    {"partido": "PSB", "percentual": 4.2}
+
+  ],
+  "concentração": "A Câmara dos Deputados apresenta um elevado grau de fragmentação partidária.  Embora alguns partidos maiores, como PL, PT e UNIÃO, detenham uma parcela significativa das cadeiras, nenhum deles possui maioria absoluta.  A presença de diversos partidos com representatividade menor, embora individualmente com pouco poder, coletivamente exercem  influência considerável no processo decisório.",
+  "implicacoes": "Essa distribuição fragmentada impõe a necessidade da formação de coalizões para a aprovação de projetos de lei.  Governos precisam negociar e ceder em determinadas pautas para garantir o apoio necessário. A construção de maiorias se torna um processo complexo, exigindo habilidade política e capacidade de articulação.  A fragmentação também pode levar à instabilidade política, com  maior dificuldade de governar e implementar agendas. Por outro lado, a multiplicidade de vozes e perspectivas representadas pode enriquecer o debate democrático, garantindo a representação de diferentes interesses da sociedade. A formação de blocos parlamentares, agrupando partidos com ideologias semelhantes, torna-se crucial para facilitar a negociação e votação em bloco, conferindo maior poder de barganha aos partidos menores. A possibilidade de  obstrução da pauta por  grupos minoritários é outra consequência da fragmentação, exigindo mecanismos de  negociação e  concessões para garantir a governabilidade."
+}

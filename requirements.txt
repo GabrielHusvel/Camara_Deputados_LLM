@@ -1,0 +1,15 @@
+matplotlib
+requests
+pandas
+langchain_google_genai
+python-dotenv
+fastparquet
+pyarrow
+streamlit
+plotly
+PyYAML
+faiss-cpu
+sentence_transformers
+OpenAI
+langchain
+langchain_community
